@@ -1,15 +1,10 @@
 # Hi, I’m Le Trang Lan!  <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
+
+<p align="center">
+<img src="https://projectertest.000webhostapp.com/gif/html.gif" width="64px" height="64px" alt="totoro"> <img src="https://projectertest.000webhostapp.com/gif/css.gif" width="64px" height="64px" alt="totoro"> <img src="https://projectertest.000webhostapp.com/gif/js.gif" width="64px" height="64px" alt="totoro"> <img src="https://projectertest.000webhostapp.com/gif/boostrap.gif" width="64px" height="64px" alt="totoro"> <img src="https://projectertest.000webhostapp.com/gif/node.gif" width="64px" height="64px" alt="totoro"> <img src="https://projectertest.000webhostapp.com/gif/react.gif" width="64px" height="64px" alt="totoro"> <img src="https://projectertest.000webhostapp.com/gif/mongodb.gif" width="64px" height="64px" alt="totoro"> <img src="https://projectertest.000webhostapp.com/gif/vs.gif" width="64px" height="64px" alt="totoro"></p>
+
+## Social & Info
 <a href=https://www.linkedin.com/in/ltlan/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href=https://www.facebook.com/ltlan/><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-
-<img src="https://projectertest.000webhostapp.com/gif/html.gif" width="64px" height="64px" alt="totoro">
-<img src="https://projectertest.000webhostapp.com/gif/css.gif" width="64px" height="64px" alt="totoro">
-<img src="https://projectertest.000webhostapp.com/gif/js.gif" width="64px" height="64px" alt="totoro">
-<img src="https://projectertest.000webhostapp.com/gif/boostrap.gif" width="64px" height="64px" alt="totoro">
-<img src="https://projectertest.000webhostapp.com/gif/node.gif" width="64px" height="64px" alt="totoro">
-<img src="https://projectertest.000webhostapp.com/gif/react.gif" width="64px" height="64px" alt="totoro">
-<img src="https://projectertest.000webhostapp.com/gif/mongodb.gif" width="64px" height="64px" alt="totoro">
-<img src="https://projectertest.000webhostapp.com/gif/vs.gif" width="64px" height="64px" alt="totoro">
-
 👨 My name is Le Trang Lan and I'm a junior studying Information Technology at HUFI. My goal is to become a web developer.
 
 ## Web Front-end:
@@ -30,10 +25,9 @@ I love writting what I've done and I've learned along doing my projects - You ca
 
 
 ## 📈 Github Stats
-
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=letranglan129&theme=tokyonight&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letranglan129&theme=tokyonight&layout=compact&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letranglan129&theme=tokyonight&layout=compact&langs_count=6"></p>
 
 <!---
 anhduy1202/anhduy1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
