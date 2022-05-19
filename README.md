@@ -23,7 +23,7 @@
 
 ## ✏️ My Blog
 
-I love writting what I've done and I've learned along doing my projects - You can find my blogs on here: <a target="_blank" href="https://portfolio-letranglan.vercel.app">Click here</a>
+I love writting what I've done and I've learned along doing my projects - You can find my blogs on here: [Click here](https://portfolio-letranglan.vercel.app){:target="_blank" rel="noopener"}
 
 
 ## 📈 Github Stats
