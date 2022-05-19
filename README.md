@@ -23,7 +23,7 @@
 
 ## ✏️ My Blog
 
-I love writting what I've done and I've learned along doing my projects - You can find my blogs on here: [Click here](https://portfolio-letranglan.vercel.app){:target="_blank" rel="noopener"}
+I love writting what I've done and I've learned along doing my projects - You can find my blogs on here: [Click here](https://portfolio-letranglan.vercel.app){:target="\_blank"}
 
 
 ## 📈 Github Stats
@@ -34,9 +34,3 @@ I love writting what I've done and I've learned along doing my projects - You ca
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letranglan129&theme=tokyonight&layout=compact&langs_count=6">
 </p>
-
-
-<!---
-anhduy1202/anhduy1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
